@@ -5,7 +5,7 @@ using UnityEngine;
 public class Ball : MonoBehaviour
 {
     //Define private variables
-    float _speed = 20f;
+    float _speed = 24f;
     Rigidbody _rigidbody;
     Vector3 _velocity;
 
