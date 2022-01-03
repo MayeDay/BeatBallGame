@@ -33,4 +33,22 @@ OnCollisionEnter()
 Prefabs
 - Special type of component that allows fully configured GameObject to save in the project.
 
+Game Manager
+- Script that manages the states of the game.
+Flow:
+Start > Play > Pause > Die > Game Over (game states)
 
+UI
+- Toolkit for developing user interfaces for games and applications. It is a GameObject-based UI system.
+
+Canvas 
+- Area where UI elements should be inside. 
+
+Event System
+- Used to determine things such as mouse input such as button.
+
+Panel 
+- Section that you can place UI elements. This is the core and required by unity to run UI.
+
+Game State Machines
+- 
